@@ -1,0 +1,11 @@
+#blue{
+    color: blue;
+}
+/*adjust shape of object to be 120x120px*/
+img{
+    width: 220px;
+    height: 220px;
+}
+.color-title{
+    font-weight: normal;
+}
